@@ -50,6 +50,12 @@
             <artifactId>hutool-all</artifactId>
             <version>5.7.20</version>
         </dependency>
+
+        <!--spring-boot-data-es-->
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-data-elasticsearch</artifactId>
+        </dependency>
     </dependencies>
     <build>
         <plugins>

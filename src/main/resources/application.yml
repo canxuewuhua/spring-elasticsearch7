@@ -4,3 +4,6 @@ server:
 spring:
   application:
     name: elastic-search7-service
+  elasticsearch:
+    rest:
+      uris: 172.16.244.128:9200
